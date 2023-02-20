@@ -1,4 +1,3 @@
-# Programming Project 2 - iis21118, Apostolia-Maria Sofianopoulou
 import tarfile
 import os
 import string
